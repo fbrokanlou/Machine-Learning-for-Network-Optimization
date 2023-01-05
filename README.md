@@ -7,4 +7,4 @@ Today’s business demands require corporations to relocate their networks to se
 
 [Full text (51 pages)](https://github.com/fakhraddinJ/Machine-Learning-for-Network-Optimization/blob/master/Fakhraddin_TFM.pdf)
 
-#### Written by: Fakhraddin Mohammed JAF
+
